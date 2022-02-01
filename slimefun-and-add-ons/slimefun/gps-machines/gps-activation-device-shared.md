@@ -1,0 +1,2 @@
+# GPS Activation Device (Shared)
+

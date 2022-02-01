@@ -1,0 +1,2 @@
+# Synthetic Shulker Shell
+

@@ -1,0 +1,6 @@
+---
+description: Slimefun Weapons
+---
+
+# Weapons
+
