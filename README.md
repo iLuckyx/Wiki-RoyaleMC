@@ -1,6 +1,6 @@
 ---
 description: Welcome to RoyaleMC's Official Wiki
-coverY: 0
+coverY: 1
 ---
 
 # Main Page - RoyaleMC
