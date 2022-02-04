@@ -14,5 +14,5 @@ Are you fast enough? Smart enough? Lucky enough? Prepared for the unexpected? If
 | Scramble Race | Unscramble the word/s with speed and accuracy |
 
 {% hint style="info" %}
-Chat and Scramble Race requires accuracy when typing, meaning that you have to type them with <mark style="color:yellow;">proper capitalization</mark>.
+Chat and Scramble Race requires accuracy when typing, meaning that you have to type them with <mark style="color:red;">proper capitalization</mark>.
 {% endhint %}

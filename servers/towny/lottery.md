@@ -16,8 +16,8 @@ The number of tickets you can buy depends on your rank.
 |   Servant   |             2             |
 |  Apprentice |             3             |
 |   Merchant  |             3             |
-|    Squire   |             3             |
-|    Noble    |             3             |
+|    Squire   |             4             |
+|    Noble    |             4             |
 |     Lord    |             5             |
 |   Viscount  |             5             |
 
@@ -25,7 +25,7 @@ The number of tickets you can buy depends on your rank.
 
 |   Donator Ranks   | Number of Buyable Tickets |
 | :---------------: | :-----------------------: |
-|       Knight      |             5             |
+|       Knight      |             6             |
 |   Duke / Duchess  |             7             |
 | Prince / Princess |             8             |
 |    King / Queen   |             9             |

@@ -5,5 +5,5 @@ command: \[item] or \[i] - Type the command while holding the item
 {% endembed %}
 
 {% hint style="info" %}
-<mark style="color:yellow;">\[item]</mark> can be done with any player rank.&#x20;
+<mark style="color:blue;">\[item]</mark> can be done with any player rank.&#x20;
 {% endhint %}
