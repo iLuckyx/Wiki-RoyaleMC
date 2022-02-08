@@ -24,6 +24,7 @@
   * [Particle Effects](network-information/cosmetics-and-coins/particle-effects.md)
   * [Statuses](network-information/cosmetics-and-coins/statuses.md)
 * [Voting & Reviews](network-information/voting-and-reviews.md)
+* [Changelog](network-information/changelog.md)
 
 ## Servers
 
