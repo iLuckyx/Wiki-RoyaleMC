@@ -28,7 +28,7 @@ Teleport back to your grave-stones completely free during the event. Use command
 
 Take part in the Halloween quests to earn access to the limited-time Halloween shop as well as earn additional event create keys! Get started by running the command `/quests` and look for the Halloween quests section.
 
-![Halloween Quests GUI](<../../../.gitbook/assets/image (289).png>)
+![Halloween Quests GUI](<../../../.gitbook/assets/image (289) (1).png>)
 
 ### Halloween Shop
 
