@@ -8,13 +8,14 @@ The Advanced Industrial Miner is a Basic Machine within Slimefun.  Its main purp
 
 ### Crafting & Recipe
 
-You can find the recipe within your Slimefun Guide at any time within the game.  Use command /sf search Advanced Industrial Miner to open the guide in-game\
-\
+You can find the recipe within your Slimefun Guide at any time within the game.  Use command /sf search Advanced Industrial Miner to open the guide in-game
+
+{% hint style="info" %}
 Note:  The pistons \*must\* be placed facing up in order for the multiblock to form.
+{% endhint %}
 
 ![](<../../../../.gitbook/assets/image (293).png>)
 
-**Table:** Built in World\
 **Items Needed:**\
 x2 Pistons (Facing Upwards)\
 x2 Diamond Blocks\
