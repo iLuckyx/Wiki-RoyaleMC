@@ -4,7 +4,7 @@
 
 The industrial Miner is a Basic Machine within Slimefun.  Its main purpose is to be used to mine ores within a 7x7 radius of where it is placed in the world, using coal as fuel.
 
-![](<../../../../.gitbook/assets/image (293).png>)
+![](<../../../../.gitbook/assets/image (293) (1).png>)
 
 ### Crafting & Recipe
 
