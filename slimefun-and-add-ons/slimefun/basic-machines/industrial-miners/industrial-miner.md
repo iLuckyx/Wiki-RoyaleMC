@@ -8,8 +8,7 @@ The industrial Miner is a Basic Machine within Slimefun.  Its main purpose is to
 
 ### Crafting & Recipe
 
-You can find the recipe within your Slimefun Guide at any time within the game.  Use command /sf search Industrial Miner to open the guide in-game.\
-
+You can find the recipe within your Slimefun Guide at any time within the game.  Use command /sf search Industrial Miner to open the guide in-game.
 
 {% hint style="info" %}
 Note:  The pistons \*must\* be placed facing up in order for the multiblock to form.
