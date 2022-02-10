@@ -45,10 +45,10 @@ This is done by staff and random people we reach out to. The Artmap with the hig
 ## Contest Winners
 
 **1st Place:** -FinestOreos3849\
-![](<../../../.gitbook/assets/image (292) (1).png>)\
+![](<../../../.gitbook/assets/image (292) (1) (1).png>)\
 \
 **2nd Place:** Soft\_Furret\
-![](<../../../.gitbook/assets/image (288) (1) (1).png>)\
+![](<../../../.gitbook/assets/image (288) (1) (1) (1).png>)\
 \
 **3rd Place:** Tom551\
 ![](<../../../.gitbook/assets/image (284).png>)

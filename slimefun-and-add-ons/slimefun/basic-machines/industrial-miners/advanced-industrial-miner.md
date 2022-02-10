@@ -4,7 +4,7 @@
 
 The Advanced Industrial Miner is a Basic Machine within Slimefun.  Its main purpose is to be used to mine ores within a 11x11 radius of where it is placed in the world, using lava or liquid fuel as fuel.
 
-![](<../../../../.gitbook/assets/image (288).png>)
+![](<../../../../.gitbook/assets/image (288) (1).png>)
 
 ### Crafting & Recipe
 

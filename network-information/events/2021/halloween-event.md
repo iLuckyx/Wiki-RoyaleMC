@@ -61,7 +61,7 @@ We have put together a handful of new brews for everyone to get making! Make x3 
 
 ![/recipes menu for Halloween Drinks](<../../../.gitbook/assets/image (287).png>)
 
-![Brew Master GUI](<../../../.gitbook/assets/image (291).png>)
+![Brew Master GUI](<../../../.gitbook/assets/image (291) (1).png>)
 
 ### Event Crate & Event Crate Keys
 

@@ -14,7 +14,7 @@ You can find the recipe within your Slimefun Guide at any time within the game. 
 Note:  The pistons \*must\* be placed facing up in order for the multiblock to form.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (292).png>)
+![](<../../../../.gitbook/assets/image (292) (1).png>)
 
 **Items Needed:**\
 ****x2 Pistons (Facing Upwards)\
