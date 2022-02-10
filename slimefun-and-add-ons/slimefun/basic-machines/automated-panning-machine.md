@@ -16,7 +16,6 @@ You can find the recipe within your Slimefun Guide at any time within the game. 
 
 ![Panning Machine](<../../../.gitbook/assets/image (289).png>)
 
-**Table:** Enhanced Crafting Table\
 **Items Needed:**\
 ****x1 Cauldron\
 x1 Wooden Trap Door (Any Type)
