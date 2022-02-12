@@ -8,13 +8,13 @@ description: Sifting your life away
 
 The Automated  Panning Machine is a Basic Machine with Slimefun. It's main purpose is to be used to sift gravel into Sifted Ore as well as other byproducts (Iron Nuggets, Clay Balls and Flint.  Soul Sand can be sifted into Nether Quartz, Blaze Powder, Gold Nuggets, Ghast Tears and Glowstone Dust.
 
-![](<../../../.gitbook/assets/image (288) (1) (1).png>)
+![](<../../../.gitbook/assets/image (288) (2).png>)
 
 ### Crafting & Recipe
 
 You can find the recipe within your Slimefun Guide at any time within the game.  Use command /sf search Panning Machine to open the guide in-game.
 
-![Panning Machine](<../../../.gitbook/assets/image (289).png>)
+![Panning Machine](<../../../.gitbook/assets/image (289) (1).png>)
 
 **Items Needed:**\
 ****x1 Cauldron\
