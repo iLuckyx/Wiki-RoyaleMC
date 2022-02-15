@@ -46,6 +46,7 @@
   * [Chat Brawl](servers/towny/chat-brawl.md)
   * [Chat Items](servers/towny/chat-items.md)
   * [Crates](servers/towny/crates.md)
+  * [Custom Items](servers/towny/custom-items.md)
   * [Display Shops](servers/towny/display-shops.md)
   * [Dynmap](servers/towny/dynmap.md)
   * [Jobs & Quests](servers/towny/jobs-and-quests.md)

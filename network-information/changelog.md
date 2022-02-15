@@ -4,42 +4,6 @@ description: Find information about all changes made within the RoyaleMC network
 
 # Changelog
 
-## Changelog 1.1 - Feb. 14th, 2022
-
-```
-TOWNY
-• Networks updated (02/08/2022)
-• Updated lore on Cupid Armor set (02/08/2022)
-• End portal now has a 25 block cube protection (02/08/2022)
-• Colors added to ChatBrawl reward winners (02/08/2022)
-• Removed jobs showing info on action bar (02/08/2022)
-• New fish added for those who completed /parkour (02/08/2022)
-• Fixed an issue preventing prefixes from showing on TAB (02/09/2022)
-• Networks updated (02/09/2022)
-• Networks range reduced as a hotfix to major issue (02/10/2022)
-• NEW Photovoltaic Constructor (02/10/2022)
-• NEW Tool Maker (netherite ingots -> netherite pickaxe, easier quarries) (02/10/2022)
-• Modified photovoltaic constructor to be more pleasing to the eye (02/10/2022)
-• Updated enchantments on Nobium Titanium Sword (02/11/2022)
-• Networks updated (02/11/2022)
-• Fixed an issue with crimson/warped nylium quests (02/11/2022)
-• Hype train cosmeitc disabled (02/12/2022)
-• /rules updated (02/12/2022)
-• Fixed multple issues with the V-day brews and brewing master (02/13/2022)
-• Updated Extrastorage GUI (02/13/2022)
-• Fixed an issue from being able to use town commands while muted (02/13/2022)
-
-HUB
-• Hype train cosmeitc disabled (02/12/2022)
-
-DISCORD
-• Added #📣│slimefun-announcements  (02/08/2022)
-• Rules updated #📜│rules  (02/13/2022)
-
-BUNGEE
-• Geyser/Floodgate update to latest (02/08/2022)
-```
-
 ## Changelog 1.0 - Feb. 8th, 2022
 
 ```
