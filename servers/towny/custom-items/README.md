@@ -4,6 +4,10 @@ description: Unique and fun items to collect within the Towny server
 
 # Custom Items
 
+## Archangel Wings
+
+\<coming soon>
+
 ## Demonic Wings
 
 ### Red Demonic Wings
