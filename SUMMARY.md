@@ -7,6 +7,7 @@
 * [Getting Started](network-information/getting-started.md)
 * [Events](network-information/events/README.md)
   * [2022](network-information/events/2022/README.md)
+    * [Saint Patrick's Day Event](network-information/events/2022/saint-patricks-day-event.md)
     * [Valentines Day Event](network-information/events/2022/valentines-day-event.md)
   * [2021](network-information/events/2021/README.md)
     * [Christmas Artmap Contest](network-information/events/2021/christmas-artmap-contest.md)

@@ -10,7 +10,7 @@ description: Basic Starting Guide for RoyaleMC Survival
 
 1. Download the Minecraft Launcher from [https://www.minecraft.net/en-us/](https://www.minecraft.net/en-us/)
 2. Open the launcher and sign in to your Mojang or Microsoft account
-3. In order to connect to the server, you need to be running a support version **(1.8 - 1.17)**
+3. In order to connect to the server, you need to be running a support version **(1.16 - 1.18)**
 4. Select **play** to boot the game
 5. At the main menu, select **multiplayer**
 6. Select **Add Server**
@@ -30,7 +30,7 @@ description: Basic Starting Guide for RoyaleMC Survival
 
 ## Getting a Head Start with Voting
 
-Want a head start? Free items? Diamonds? Fly time? Support and help the community grow? Voting daily rewards you with awesome rewards to make your time spent with us all the more fun. Each vote gets you items, a vote crate key, 1 token for the token shop and so much more. For more information help on over to the Voting & Reviews page below.
+Want a head start? Free items? Diamonds? Fly time? Support and help the community grow? Voting daily rewards you with awesome rewards. Each vote gets you items, a vote crate key, 1 token for the token shop and so much more. For more information help on over to the Voting & Reviews page below.
 
 {% content-ref url="voting-and-reviews.md" %}
 [voting-and-reviews.md](voting-and-reviews.md)
