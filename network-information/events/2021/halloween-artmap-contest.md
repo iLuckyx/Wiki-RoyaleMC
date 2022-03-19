@@ -22,7 +22,7 @@ In order to run the save command, players need to be sitting at the easel they w
 
 The best way to win is by creating the best art you can on **one single map** that is Halloween-themed!&#x20;
 
-![Lucky's Submitted Art Work](<../../../.gitbook/assets/image (290) (1).png>)
+![Lucky's Submitted Art Work](<../../../.gitbook/assets/image (290) (1) (1).png>)
 
 ### Prizes
 

@@ -4,7 +4,7 @@
 
 The Crucible is a Basic Machine within Slimefun.  Its main purpose it to turn many stone type blocks into lava, or leaves into water.
 
-![](<../../../.gitbook/assets/image (291).png>)
+![](<../../../.gitbook/assets/image (291) (1).png>)
 
 ### Crafting & Recipe
 
