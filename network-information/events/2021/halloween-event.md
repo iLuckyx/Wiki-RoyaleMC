@@ -61,13 +61,13 @@ We have put together a handful of new brews for everyone to get making! Make x3 
 
 ![/recipes menu for Halloween Drinks](<../../../.gitbook/assets/image (287).png>)
 
-![Brew Master GUI](<../../../.gitbook/assets/image (291) (1) (1).png>)
+![Brew Master GUI](<../../../.gitbook/assets/image (291) (1).png>)
 
 ### Event Crate & Event Crate Keys
 
 A limited-time crate that provides an additional reward to all players. Use command `/warp event` within the game to be teleported to the crate. Event crate keys can be obtained in many different ways, each vote has a 50% chance to obtain a key, completing the Halloween quests, vote parties, fishing, trading with other players, and completing the candy basket hunt.&#x20;
 
-![Event Crate Rewards](<../../../.gitbook/assets/image (286) (1).png>)
+![Event Crate Rewards](<../../../.gitbook/assets/image (286).png>)
 
 ### Pyro Mining Event
 
