@@ -118,7 +118,36 @@ _**Viscount**_\
 
 ### Donator Ranks:
 
-in progress
+The donator ranks are obtainable by purchasing in our server shop found [here](https://www.royale-mc.com/store).
+
+| Features                      | Knight       | Duke/Duchess         | Prince/Princess             | King/Queen                  | Emperor/Emporess            |
+| ----------------------------- | ------------ | -------------------- | --------------------------- | --------------------------- | --------------------------- |
+| In-game name colour           | Dark Aqua    | Blue                 | Aqua                        | Dark Red                    | Light purple                |
+| Chat Prefix                   | \[Knight]    | \[Duke] / \[Duchess] | \[Prince] / \[Princess]     | \[King] / \[Queen]          | \[Emperor] / \[Emporess]    |
+| Particle Effects              | ❌            | Shadow Walk          | Emerald Twirl               | Aura of Flame               | Legendary Aura              |
+| Keys                          | 1 Common Key | 2 Common Keys        | 2 Common Keys + 1 Rare Keys | 2 Common Keys + 2 Rare Keys | 5 Common Keys + 3 Rare Keys |
+| Claim Blocks                  | 1,000        | 2,000                | 4,000                       | 8,000                       | 15,000                      |
+| Coins                         | 1,000        | 2,500                | 5,000                       | 10,000                      | 15,000                      |
+| Set Homes                     | 3            | 5                    | 10                          | 15                          | 20                          |
+| Player Warps                  | 1            | 1                    | 2                           | 2                           | 3                           |
+| Player Shops                  | 20           | 20                   | 25                          | 30                          | 25                          |
+| Auction Listings              | 15           | 15                   | 20                          | 20                          | 25                          |
+| Lottery Tickets               | 3            | 3                    | 4                           | 4                           | 5                           |
+| Improved Vote / Party Rewards | ✅            | ✅                    | ✅                           | ✅                           | ✅                           |
+| Coloured Signs                | ✅            | ✅                    | ✅                           | ✅                           | ✅                           |
+| /kit knight                   | ✅            | ✅                    | ✅                           | ✅                           | ✅                           |
+| /echest                       | ✅            | ✅                    | ✅                           | ✅                           | ✅                           |
+| /nick                         | ✅            | ✅                    | ✅                           | ✅                           | ✅                           |
+| /recipe                       | ✅            | ✅                    | ✅                           | ✅                           | ✅                           |
+| /pwarp                        | ✅            | ✅                    | ✅                           | ✅                           | ✅                           |
+| /back                         | ❌            | ✅                    | ✅                           | ✅                           | ✅                           |
+| /hat                          | ❌            | ❌                    | ✅                           | ✅                           | ✅                           |
+| /kittycannon                  | ❌            | ❌                    | ✅                           | ✅                           | ✅                           |
+| /disposal                     | ❌            | ❌                    | ❌                           | ✅                           | ✅                           |
+| /seen                         | ❌            | ❌                    | ❌                           | ✅                           | ✅                           |
+| /firework                     | ❌            | ❌                    | ❌                           | ❌                           | ✅                           |
+| /compass                      | ❌            | ❌                    | ❌                           | ❌                           | ✅                           |
+| /getpos                       | ❌            | ❌                    | ❌                           | ❌                           | ✅                           |
 
 ### Slimefun Ranks:
 
